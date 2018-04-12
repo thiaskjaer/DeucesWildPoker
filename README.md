@@ -4,7 +4,7 @@ An excerpt of the files created for a deuces wild poker game, made as a project 
 ## Introduction
 These files show the main workings of the game Deuces Wild Poker, coded using ActionScript 3.  
 Deuces Wild Poker is a 5-hand poker game, where the goal is to get the highest hand possible.  
-2s count as wild cards, meaning they take the form of the best possible card for the hand given.
+2s count as wild cards, meaning they take the form of the best possible card for the hand given.  
 The lowest paying hand is three of a kind, and the highest is a royal flush.  
 ## Classes
 The GAME class initializes the game and contains the main game loop and UI functionality.  
