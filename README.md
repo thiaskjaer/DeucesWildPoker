@@ -13,5 +13,7 @@ The Card and DECK classes are representations of cards and decks as objects, mak
 
 The WIN class contains methods for checking all the possible win cases that a hand can have. Each win condition is represented as a method, which accepts a hand (array) of five card objects. These win conditions contain a lot of game logic, that can fairly easily be translated to similar projects.  
 
+More specific information can be found as code comments.
+
 ---
 Due to some proprietary code used from Casino Game Maker, to make the game window work, only an excpert of the game source code is hosted.
